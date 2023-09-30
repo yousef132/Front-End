@@ -6,7 +6,7 @@
 ### The challenge
 
 - Build out a **responsive** website to the design provided:
-  - [Leon - Free Html Agency Website Template](https://www.graphberry.com/item/kasper-one-page-creative-html-theme)
+  - [Leon - Free Html Agency Website Template](https://www.graphberry.com/item/leon-psd-agency-template)
 
 ### Links
 
